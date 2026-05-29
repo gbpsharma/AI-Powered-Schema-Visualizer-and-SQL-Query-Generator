@@ -1,6 +1,6 @@
 import React,{useState} from "react"
-import PromptPanel from "./PromptPanel"
-import QueryPanel from "./QueryPanel"
+import PromptPanel from "./promptpanel"
+import QueryPanel from "./querypanel"
 import FlowDiagram from "./flowdiagram"
 import "./styles.css"
 
