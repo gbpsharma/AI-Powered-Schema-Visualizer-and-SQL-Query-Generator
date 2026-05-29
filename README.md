@@ -40,17 +40,23 @@ The platform helps students, developers, database designers, and analysts rapidl
 ## System Architecture
 
 User Prompt
-↓
+    │
+    ▼
 OpenAI API
-↓
+    │
+    ▼
 Schema Generation Engine
-↓
+    │
+    ▼
 JSON Schema Output
-↓
+    │
+    ▼
 React Flow Visualization
-↓
+    │
+    ▼
 SQL Query Generation
-↓
+    │
+    ▼
 Generated SQL Query
 
 ---
