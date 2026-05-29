@@ -38,7 +38,7 @@ The platform helps students, developers, database designers, and analysts rapidl
 ---
 
 ## System Architecture
-
+```
 User Prompt
     │
     ▼
@@ -58,7 +58,7 @@ SQL Query Generation
     │
     ▼
 Generated SQL Query
-
+```
 ---
 
 ## Technology Stack
